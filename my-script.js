@@ -1,8 +1,9 @@
 function a()
 {
+  var ma_variable = "a";
   return "a";
 }
 
 function b(){
-  return "B";
+  return "b";
 }
